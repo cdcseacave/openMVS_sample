@@ -1,0 +1,27 @@
+12:48:56 [App     ] Build date: Jan  5 2020, 15:49:26
+12:48:56 [App     ] CPU: Intel(R) Core(TM) i7-8850H CPU @ 2.60GHz (12 cores)
+12:48:56 [App     ] RAM: 31.89GB Physical Memory 128.00TB Virtual Memory
+12:48:56 [App     ] OS: Windows 8 x64
+12:48:56 [App     ] SSE & AVX compatible CPU & OS detected
+12:48:56 [App     ] Command line: scene_mesh_refine.mvs
+12:48:57 [App     ] Scene loaded (246ms):
+	11 images (11 calibrated) with a total of 63.22 MPixels (5.75 MPixels/image)
+	0 points, 245770 vertices, 490893 faces
+12:49:21 [App     ] Assigning the best view to each face completed: 490893 faces (24s583ms)
+12:49:29 [App     ] Generating texture atlas and image completed: 8867 patches, 4096 image size (7s699ms)
+12:49:29 [App     ] Mesh texturing completed: 245770 vertices, 490893 faces (32s333ms)
+12:49:33 [App     ] Scene saved (4s399ms):
+	11 images (11 calibrated)
+	0 points, 245770 vertices, 490893 faces
+12:49:37 [App     ] Mesh saved: 245770 vertices, 490893 faces (3s776ms)
+12:49:37 [App     ] MEMORYINFO: {
+12:49:37 [App     ] 	PageFaultCount 1694581
+12:49:37 [App     ] 	PeakWorkingSetSize 1.78GB
+12:49:37 [App     ] 	WorkingSetSize 278.40MB
+12:49:37 [App     ] 	QuotaPeakPagedPoolUsage 126.72KB
+12:49:37 [App     ] 	QuotaPagedPoolUsage 126.55KB
+12:49:37 [App     ] 	QuotaPeakNonPagedPoolUsage 45.81KB
+12:49:37 [App     ] 	QuotaNonPagedPoolUsage 18.98KB
+12:49:37 [App     ] 	PagefileUsage 274.33MB
+12:49:37 [App     ] 	PeakPagefileUsage 2.89GB
+12:49:37 [App     ] } ENDINFO

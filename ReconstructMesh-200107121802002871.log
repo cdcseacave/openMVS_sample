@@ -1,0 +1,43 @@
+12:18:02 [App     ] Build date: Jan  5 2020, 15:49:26
+12:18:02 [App     ] CPU: Intel(R) Core(TM) i7-8850H CPU @ 2.60GHz (12 cores)
+12:18:02 [App     ] RAM: 31.89GB Physical Memory 128.00TB Virtual Memory
+12:18:02 [App     ] OS: Windows 8 x64
+12:18:02 [App     ] SSE & AVX compatible CPU & OS detected
+12:18:02 [App     ] Command line: scene.mvs --remove-spurious 10 --smooth 1
+12:18:02 [App     ] Camera model loaded: platform 0; camera  0; f 1.054x1.054; poses 11
+12:18:02 [App     ] Image loaded   0: 00000.jpg
+12:18:02 [App     ] Image loaded   1: 00001.jpg
+12:18:02 [App     ] Image loaded   2: 00002.jpg
+12:18:02 [App     ] Image loaded   3: 00003.jpg
+12:18:02 [App     ] Image loaded   4: 00004.jpg
+12:18:02 [App     ] Image loaded   5: 00005.jpg
+12:18:02 [App     ] Image loaded   6: 00006.jpg
+12:18:02 [App     ] Image loaded   7: 00007.jpg
+12:18:02 [App     ] Image loaded   8: 00008.jpg
+12:18:02 [App     ] Image loaded   9: 00009.jpg
+12:18:02 [App     ] Image loaded  10: 00010.jpg
+12:18:02 [App     ] Scene loaded from interface format (8ms):
+	11 images (11 calibrated) with a total of 63.22 MPixels (5.75 MPixels/image)
+	12683 points, 0 vertices, 0 faces
+12:18:02 [App     ] Delaunay tetrahedralization completed: 12683 points -> 10643 vertices, 65518 (+52) cells, 131062 (+78) faces (178ms)
+12:18:02 [App     ] Delaunay tetrahedras weighting completed: 65570 cells, 131140 faces (112ms)
+12:18:02 [App     ] Delaunay tetrahedras graph-cut completed (10400.4 flow): 7380 vertices, 14747 faces (109ms)
+12:18:02 [App     ] Mesh reconstruction completed: 7382 vertices, 14745 faces (489ms)
+12:18:02 [App     ] Cleaned mesh: 7377 vertices, 14708 faces (30ms)
+12:18:02 [App     ] Cleaned mesh: 7377 vertices, 14707 faces (29ms)
+12:18:02 [App     ] Cleaned mesh: 7377 vertices, 14707 faces (15ms)
+12:18:02 [App     ] Scene saved (14ms):
+	11 images (11 calibrated)
+	0 points, 7377 vertices, 14707 faces
+12:18:02 [App     ] Mesh saved: 7377 vertices, 14707 faces (13ms)
+12:18:02 [App     ] MEMORYINFO: {
+12:18:02 [App     ] 	PageFaultCount 17125
+12:18:02 [App     ] 	PeakWorkingSetSize 30.25MB
+12:18:02 [App     ] 	WorkingSetSize 10.57MB
+12:18:02 [App     ] 	QuotaPeakPagedPoolUsage 128.06KB
+12:18:02 [App     ] 	QuotaPagedPoolUsage 127.89KB
+12:18:02 [App     ] 	QuotaPeakNonPagedPoolUsage 13.67KB
+12:18:02 [App     ] 	QuotaNonPagedPoolUsage 13.27KB
+12:18:02 [App     ] 	PagefileUsage 5.54MB
+12:18:02 [App     ] 	PeakPagefileUsage 26.68MB
+12:18:02 [App     ] } ENDINFO
