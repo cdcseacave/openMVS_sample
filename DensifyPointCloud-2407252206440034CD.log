@@ -1,0 +1,119 @@
+22:06:44 [App     ] OpenMVS x64 v2.3.0
+22:06:44 [App     ] Build date: Jul 14 2024, 15:45:59
+22:06:44 [App     ] CPU: Intel(R) Core(TM) i7-7700K CPU @ 4.20GHz (8 cores)
+22:06:44 [App     ] RAM: 31.89GB Physical Memory 128.00TB Virtual Memory
+22:06:44 [App     ] OS: Windows 8 x64
+22:06:44 [App     ] Disk: 68.89GB (768.21GB) space
+22:06:44 [App     ] SSE & AVX compatible CPU & OS detected
+22:06:44 [App     ] Command line: DensifyPointCloud scene.mvs
+22:06:44 [App     ] CUDA device 0 initialized: NVIDIA GeForce GTX 1060 6GB (compute capability 6.1; memory 6.00GB)
+22:06:44 [App     ] Camera model loaded: platform 0; camera  0; f 1.054x1.054; poses 11
+22:06:44 [App     ] Scene loaded from interface format (15ms):
+	11 images (11 calibrated) with a total of 63.22 MPixels (5.75 MPixels/image)
+	12683 points, 0 vertices, 0 faces
+22:06:44 [App     ] The camera directions mean is unbalanced; the scene will be considered unbounded (no ROI)
+22:06:44 [App     ] Point-cloud composed of 12683 points with:
+ - visibility info (45518 views - 3.59 views/point):
+	        0 points with 1- views (0.00%)
+	     5610 points with 2  views (44.23%)
+	     2590 points with 3  views (20.42%)
+	     4483 points with 4+ views (35.35%)
+	2 min / 3.5889 mean (2.10788 std) / 11 max
+ - weights info:
+	256 min / 275.681 mean (11.2853 std) / 318.833 max
+22:06:44 [App     ] Preparing images for dense reconstruction completed: 11 images (153ms)
+22:06:44 [App     ] Selecting images for dense reconstruction completed: 11 images (8ms)
+22:06:44 [App     ] Reference image   0 paired with 6 views
+22:06:44 [App     ] Reference image   2 paired with 8 views
+22:06:46 [App     ] Depth-map for image   0 estimated using  6 images: 1416x1064 (1s671ms)
+22:06:46 [App     ] Reference image   7 paired with 8 views
+22:06:48 [App     ] Depth-map for image   2 estimated using  8 images: 1416x1064 (1s855ms)
+22:06:48 [App     ] Reference image   6 paired with 8 views
+22:06:49 [App     ] Depth-map for image   7 estimated using  8 images: 1416x1064 (1s863ms)
+22:06:50 [App     ] Reference image   4 paired with 8 views
+22:06:51 [App     ] Depth-map for image   6 estimated using  8 images: 1416x1064 (1s885ms)
+22:06:51 [App     ] Reference image   8 paired with 8 views
+22:06:53 [App     ] Depth-map for image   4 estimated using  8 images: 1416x1064 (1s873ms)
+22:06:53 [App     ] Reference image   9 paired with 8 views
+22:06:55 [App     ] Depth-map for image   8 estimated using  8 images: 1416x1064 (1s945ms)
+22:06:55 [App     ] Reference image  10 paired with 6 views
+22:06:57 [App     ] Depth-map for image   9 estimated using  8 images: 1416x1064 (2s47ms)
+22:06:57 [App     ] Reference image   5 paired with 8 views
+22:06:59 [App     ] Depth-map for image  10 estimated using  6 images: 1416x1064 (1s627ms)
+22:06:59 [App     ] Reference image   3 paired with 8 views
+22:07:01 [App     ] Depth-map for image   5 estimated using  8 images: 1416x1064 (1s888ms)
+22:07:01 [App     ] Reference image   1 paired with 7 views
+22:07:03 [App     ] Depth-map for image   3 estimated using  8 images: 1416x1064 (1s904ms)
+22:07:04 [App     ] Depth-map for image   1 estimated using  7 images: 1416x1064 (1s752ms)
+22:07:04 [App     ] Reference image   0 paired with 6 views
+22:07:05 [App     ] Reference image   2 paired with 8 views
+22:07:05 [App     ] Depth-map for image   0 estimated using  6 images: 1416x1064 (519ms)
+22:07:05 [App     ] Reference image   7 paired with 8 views
+22:07:06 [App     ] Depth-map for image   2 estimated using  8 images: 1416x1064 (592ms)
+22:07:06 [App     ] Reference image   6 paired with 8 views
+22:07:06 [App     ] Depth-map for image   7 estimated using  8 images: 1416x1064 (557ms)
+22:07:06 [App     ] Reference image   4 paired with 8 views
+22:07:07 [App     ] Depth-map for image   6 estimated using  8 images: 1416x1064 (594ms)
+22:07:07 [App     ] Reference image   8 paired with 8 views
+22:07:07 [App     ] Depth-map for image   4 estimated using  8 images: 1416x1064 (588ms)
+22:07:07 [App     ] Reference image   9 paired with 8 views
+22:07:08 [App     ] Depth-map for image   8 estimated using  8 images: 1416x1064 (610ms)
+22:07:08 [App     ] Reference image  10 paired with 6 views
+22:07:09 [App     ] Depth-map for image   9 estimated using  8 images: 1416x1064 (653ms)
+22:07:09 [App     ] Reference image   5 paired with 8 views
+22:07:09 [App     ] Depth-map for image  10 estimated using  6 images: 1416x1064 (546ms)
+22:07:09 [App     ] Reference image   3 paired with 8 views
+22:07:10 [App     ] Depth-map for image   5 estimated using  8 images: 1416x1064 (602ms)
+22:07:10 [App     ] Reference image   1 paired with 7 views
+22:07:10 [App     ] Depth-map for image   3 estimated using  8 images: 1416x1064 (589ms)
+22:07:11 [App     ] Depth-map for image   1 estimated using  7 images: 1416x1064 (549ms)
+22:07:11 [App     ] Reference image   0 paired with 6 views
+22:07:11 [App     ] Reference image   2 paired with 8 views
+22:07:12 [App     ] Depth-map for image   0 estimated using  6 images: 1416x1064 (522ms)
+22:07:12 [App     ] Reference image   7 paired with 8 views
+22:07:12 [App     ] Depth-map for image   2 estimated using  8 images: 1416x1064 (613ms)
+22:07:12 [App     ] Reference image   6 paired with 8 views
+22:07:13 [App     ] Depth-map for image   7 estimated using  8 images: 1416x1064 (581ms)
+22:07:13 [App     ] Reference image   4 paired with 8 views
+22:07:13 [App     ] Depth-map for image   6 estimated using  8 images: 1416x1064 (612ms)
+22:07:14 [App     ] Reference image   8 paired with 8 views
+22:07:14 [App     ] Depth-map for image   4 estimated using  8 images: 1416x1064 (605ms)
+22:07:14 [App     ] Reference image   9 paired with 8 views
+22:07:15 [App     ] Depth-map for image   8 estimated using  8 images: 1416x1064 (635ms)
+22:07:15 [App     ] Reference image  10 paired with 6 views
+22:07:15 [App     ] Depth-map for image   9 estimated using  8 images: 1416x1064 (673ms)
+22:07:15 [App     ] Reference image   5 paired with 8 views
+22:07:16 [App     ] Depth-map for image  10 estimated using  6 images: 1416x1064 (552ms)
+22:07:16 [App     ] Reference image   3 paired with 8 views
+22:07:17 [App     ] Depth-map for image   5 estimated using  8 images: 1416x1064 (620ms)
+22:07:17 [App     ] Reference image   1 paired with 7 views
+22:07:17 [App     ] Depth-map for image   3 estimated using  8 images: 1416x1064 (607ms)
+22:07:18 [App     ] Depth-map for image   1 estimated using  7 images: 1416x1064 (568ms)
+22:07:19 [App     ] Depth map   2 filtered using 8 other images: 29151/766939 depths discarded (717ms)
+22:07:19 [App     ] Depth map   4 filtered using 8 other images: 21094/744699 depths discarded (737ms)
+22:07:19 [App     ] Depth map   0 filtered using 8 other images: 23681/735082 depths discarded (738ms)
+22:07:19 [App     ] Depth map  10 filtered using 8 other images: 43651/865188 depths discarded (758ms)
+22:07:19 [App     ] Depth map   7 filtered using 8 other images: 13388/832218 depths discarded (768ms)
+22:07:19 [App     ] Depth map   6 filtered using 8 other images: 19053/767385 depths discarded (769ms)
+22:07:19 [App     ] Depth map   9 filtered using 8 other images: 20703/959414 depths discarded (791ms)
+22:07:19 [App     ] Depth map   8 filtered using 8 other images: 18701/948867 depths discarded (798ms)
+22:07:19 [App     ] Depth map   3 filtered using 8 other images: 22951/770597 depths discarded (796ms)
+22:07:19 [App     ] Depth map   1 filtered using 8 other images: 39201/805027 depths discarded (795ms)
+22:07:19 [App     ] Depth map   5 filtered using 8 other images: 19632/741005 depths discarded (835ms)
+22:07:27 [App     ] Depth-maps fused and filtered: 11 depth-maps, 5741740 depths, 443170 points (8%%), 9.00 hits in 9.91 cached (7s271ms)
+22:07:27 [App     ] Densifying point-cloud completed: 443170 points (43s219ms)
+22:07:27 [App     ] Point-cloud 'scene_dense.ply' saved: 443170 points (249ms)
+22:07:27 [App     ] Scene saved to interface format (16ms):
+	11 images (11 calibrated)
+	12683 points, 0 vertices, 0 faces
+22:07:27 [App     ] MEMORYINFO: {
+22:07:27 [App     ] 	PageFaultCount 2224323
+22:07:27 [App     ] 	PeakWorkingSetSize 1.48GB
+22:07:27 [App     ] 	WorkingSetSize 186.43MB
+22:07:27 [App     ] 	QuotaPeakPagedPoolUsage 321.30KB
+22:07:27 [App     ] 	QuotaPagedPoolUsage 312.95KB
+22:07:27 [App     ] 	QuotaPeakNonPagedPoolUsage 59.23KB
+22:07:27 [App     ] 	QuotaNonPagedPoolUsage 30.01KB
+22:07:27 [App     ] 	PagefileUsage 607.13MB
+22:07:27 [App     ] 	PeakPagefileUsage 2.06GB
+22:07:27 [App     ] } ENDINFO
